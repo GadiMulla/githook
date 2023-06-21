@@ -3,4 +3,4 @@ pwd
 date > time.txt
 cat time.txt
 ls
-echo "done"
+echo "done v1"
